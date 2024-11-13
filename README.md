@@ -12,3 +12,5 @@
 - 📝 I regularly write articles on [Freshcord's Forum](https://freshcord.dev/forum)
 
 - 📫 How to reach me **freson@freshcord.dev**
+
+<p align="left"> <img src="https://raw.githubusercontent.com/FresonDev/cdnPublic/refs/heads/main/github-user-contribution.svg" alt="contributions" /> </p>
