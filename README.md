@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fresonfreshcord&label=Profile%20views&color=0e75b6&style=flat" alt="dkfreshcord" /> </p>
 
-![Freson's Github Stats](https://github-readme-stats.vercel.app/api?username=FresonDev\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![DK's Github Stats](https://github-readme-stats.vercel.app/api?username=doxdk\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 - 🔭 I’m currently working in <a href="https://freshcord.dev/" target="blank">Freshcord</a>
 
